@@ -1,0 +1,123 @@
+.one{
+    font: size 75%;;
+    display: flex;
+    padding-left: 70px;
+    background-color: rgb(61, 113, 158);
+    margin: 100px;
+    text-indent: 50px;
+    text-align: center;
+    margin-left: 25%;
+    word-spacing: 20%;
+}
+.body{
+    background-color: rgb(101, 116, 116);
+    text-align: center;
+}
+.two{
+    font-size: 60px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+P.self{
+    font-size: 30px;
+    text-align: justify;  
+
+}
+.whole{
+    background-color: rgb(77, 135, 185);
+    text-align-last: center;
+    text-align: center;
+    justify-content: center;
+}
+.self1{
+    font-size: 60px;
+    text-align-last: left;
+
+}
+.three{
+    background-color: antiquewhite  ;
+    text-size-adjust: 80px;
+    margin-right: 500px;
+    font-size:xx-large;
+    text-indent: 40px;
+} 
+.topic{
+    text-size-adjust: 80px;
+    text-align: center;
+}
+.b{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.four p{
+    background-color: antiquewhite;
+    font-size: xx-large;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+   
+}
+.five{
+    background-color: antiquewhite;
+    font-size: xx-large;
+    text-align:center;
+    display: flex;
+    justify-content: center;
+}
+.six{
+    background-color: antiquewhite;
+    }
+.n{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 100px;
+    margin-left: 25%;
+    background-color: rgb(77, 135, 185);
+}
+.seven{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 75%;
+}
+.topics{
+   text-align: center;
+   display: flex;
+   justify-content: center;
+   font-size: xx-large;
+}
+.eit{
+    display: flex;
+    justify-content: center;
+    font-size: xx-large;
+    text-align: center;
+    width: 100%;
+}
+.nine{
+    display: flex;
+    justify-content: center;
+    font-size: xx-large;
+}
+.ten{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: xx-large;
+}
+.eleven{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: antiquewhite;
+    font-size: 90px;
+}
+.a{
+    text-align: center;
+    justify-content: center;
+    font-size: xx-large;
+    display: flex;
+}
